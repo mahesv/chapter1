@@ -1,4 +1,4 @@
-package com.sample;
+/*package com.sample;
 
 public class Keyboard {
     private boolean numLock = true;
@@ -7,3 +7,4 @@ public class Keyboard {
         System.out.print(numLock+" "+capLock);
     }
 }
+*/

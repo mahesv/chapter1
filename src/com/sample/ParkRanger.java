@@ -1,4 +1,4 @@
-package com.sample;
+/*package com.sample;
 public class ParkRanger {
     int birds = 10;
     public static void main(String[] data) {
@@ -8,3 +8,4 @@ public class ParkRanger {
 
 
 }
+*/

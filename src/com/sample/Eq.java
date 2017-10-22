@@ -1,4 +1,4 @@
-package com.sample;
+/*package com.sample;
 
 public class Eq {
     String tree = "pine";
@@ -9,3 +9,4 @@ if (tree.equals("pine")) {
     }
 System.out.print(height + count);
 }
+*/
